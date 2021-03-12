@@ -1,0 +1,12 @@
+﻿Šifrování
+
+Termín: 18. březen 2021 23:59
+
+Pokyny
+
+Zašifrujte string Pokud hledáte pomocnou ruku, najdete ji na konci své paže.
+Použijte:
+a) Blokovou XOR šifru s klíčem PRAVDA
+b) Cesarovu šifru s klíčem 7
+
+Před zašifrováním upravte šifrovaný text do vhodného tvaru.
